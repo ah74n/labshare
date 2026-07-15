@@ -176,9 +176,7 @@ A confirmation prompt prevents accidental deletion.
 LabShare/
 │
 ├── app.py               # Flask backend
-├── shared_files/        # Uploaded files
-├── templates/           # HTML templates (if applicable)
-├── static/              # CSS / JS (if applicable)
+├── shared_files/        # Uploaded files            
 └── README.md
 ```
 
