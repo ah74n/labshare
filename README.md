@@ -253,14 +253,6 @@ If this happens:
 - CSS
 - JavaScript
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 <p align="center">
 Made with ❤️ for classrooms, labs, and local collaboration.
 </p>
